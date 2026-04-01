@@ -1,0 +1,12 @@
++++
+authors = \["Juan José Oropeza-Valdez", "Cristian Padron-Manrique", "Jorge E. Arellano-Villavicencio", "Aarón Vázquez-Jiménez", "Laura E. Hernández-Juárez", "Xavier Soberon", "María de Lourdes Reyes-Escogido", "Rodolfo Guardado-Mendoza" and "Osbaldo Resendis-Antonio"]
+title = "Digital modeling of metformin and diet interactions on gut-microbiota metabolism in prediabetic patients"
+journal = "Computational and Structural Biotechnology Journal"
+what = "article"
+doi = "10.1016/j.csbj.2025.12.034."
+pubmed = "https://pubmed.ncbi.nlm.nih.gov/41550141/"
+date = "2026-01-01"
++++
+
+Prediabetes confers a high risk of progressing to type 2 diabetes mellitus (T2DM). While metformin, a first-line T2DM therapy, improves glycemic control in prediabetes, its effects on the gut microbiota and host metabolic shifts remain poorly understood. Here, we applied a genome-scale community metabolic modeling to build a personalized “digital microbiota” for analyzing the metabolic activity of gut microbes in 106 samples of Mexican prediabetic patients, distributed among patients without treatment and patients treated with metformin over baseline, 6 and 12 months. To contrast microbial metabolic activity across groups and explore how diet modulates it, we simulated computationally the microbial metabolic fluxes under Western, Mediterranean, and traditional Milpa diets across the three groups. As expected, in general terms in silico dietary intervention changes the metabolic responses in the microbiota profiles among the stages, suggesting specific combinations of diets that favor the production of relevant metabolites for wellness, such as amino sugars, short-chain fatty acids, and bile acid exchange fluxes. Furthermore, by selecting two individuals across the entire time as case studies, we provide a proof of concept for in silico personalized diet design. These examples illustrate how the concept of personalized digital microbiota could be leveraged to optimize dietary strategies and potentially improve outcomes in prediabetic patients.
+
