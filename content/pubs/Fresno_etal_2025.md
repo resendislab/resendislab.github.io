@@ -1,5 +1,5 @@
 +++
-authors = \["Cristóbal Fresno", "Juan José Oropeza-Valdez", "Perla Itzel Alvarado-Luis", "Patricia Peña-González", "Armando R Tovar", "Nimbe Torres", "Christian Diener", "Sean Gibbons" and "Osbaldo Resendis-Antonio"]
+authors = \["Cristóbal Fresno", "Juan José Oropeza-Valdez", "Perla Itzel Alvarado-Luis", "Patricia Peña-González", "Armando R Tovar", "Nimbe Torres", "Christian Diener", "Sean Gibbons", "Osbaldo Resendis-Antonio"]
 title = "MICOMWeb: a website for microbial community metabolic modeling of the human gut"
 journal = "Gut Microbes"
 what = "article"

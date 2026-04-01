@@ -1,5 +1,5 @@
 +++
-authors = \["Berenice Pérez", "Iván Torre-Villalvazo", "Martí Wilson-Verdugo", "Dana Lau-Corona", "Erick Muciño-Olmos", "Diana Coutiño-Hernández", "Lilia Noriega-López", "Osbaldo Resendis-Antonio", "Víctor Julián Valdés", "Nimbre Torres" and "Armando R. Tovar"]
+authors = \["Berenice Pérez", "Iván Torre-Villalvazo", "Martí Wilson-Verdugo", "Dana Lau-Corona", "Erick Muciño-Olmos", "Diana Coutiño-Hernández", "Lilia Noriega-López", "Osbaldo Resendis-Antonio", "Víctor Julián Valdés", "Nimbre Torres", "Armando R. Tovar"]
 title = "Epigenetic reprogramming of H3K4me3 in adipose-derived stem cells by HFS diet consumption leads to a disturbed transcriptomic profile in adipocytes"
 journal = "American Journal of Physiology-Endocrinology and Metabolism"
 what = "article"

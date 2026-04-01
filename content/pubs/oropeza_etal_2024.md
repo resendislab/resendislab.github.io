@@ -1,5 +1,5 @@
 +++
-authors = \["Juan José Oropeza-Valdez", "Cristian Padron-Manrique", "Aarón Vázquez-Jiménez", "Xavier Soberón" and "Osbaldo Resendis-Antonio"]
+authors = \["Juan José Oropeza-Valdez", "Cristian Padron-Manrique", "Aarón Vázquez-Jiménez", "Xavier Soberón", "Osbaldo Resendis-Antonio"]
 title = "Exploring metabolic anomalies in COVID-19 and post-COVID-19: a machine learning approach with explainable artificial intelligence"
 journal = "Frontiers in Molecular Biosciences"
 what = "article"

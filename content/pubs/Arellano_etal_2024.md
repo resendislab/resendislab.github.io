@@ -1,5 +1,5 @@
 +++
-authors = \["Jorge E. Arellano-Villavicencio", "Aarón Vázquez-Jiménez", "Juan José Oropeza-Valdez", "Crístian Padron-Manrique", "Heriberto Prado-García", "Armando R. Tovar" and "Osbaldo Resendis-Antonio"]
+authors = \["Jorge E. Arellano-Villavicencio", "Aarón Vázquez-Jiménez", "Juan José Oropeza-Valdez", "Crístian Padron-Manrique", "Heriberto Prado-García", "Armando R. Tovar", "Osbaldo Resendis-Antonio"]
 title = "Intratumoral Heterogeneity and Metabolic Cross-Feeding in a Three-Dimensional Breast Cancer Culture: An In Silico Perspective"
 journal = "International Journal of Molecular Sciences"
 what = "article"

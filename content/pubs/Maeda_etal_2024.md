@@ -1,5 +1,5 @@
 +++
-authors = \["Valeria Maeda-Gutiérrez", "Juan José Oropeza-Valdez", "Luis C. Reveles-Gómez", "Cristian Padron-Manrique", "Osbaldo Resendis-Antonio", "Luis Octavio Solís-Sánchez", "Hector A. Guerrero-Osuna" and "Carlos Alberto Olvera Olvera"]
+authors = \["Valeria Maeda-Gutiérrez", "Juan José Oropeza-Valdez", "Luis C. Reveles-Gómez", "Cristian Padron-Manrique", "Osbaldo Resendis-Antonio", "Luis Octavio Solís-Sánchez", "Hector A. Guerrero-Osuna", "Carlos Alberto Olvera Olvera"]
 title = "AI-Driven Plant Health Assessment: A Comparative Analysis of Inception V3, ResNet-50 and ViT with SHAP for Accurate Disease Identification in Taro"
 journal = "Agronomy"
 what = "article"

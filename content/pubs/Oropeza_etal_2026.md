@@ -1,5 +1,5 @@
 +++
-authors = \["Juan José Oropeza-Valdez", "Cristian Padron-Manrique", "Jorge E. Arellano-Villavicencio", "Aarón Vázquez-Jiménez", "Laura E. Hernández-Juárez", "Xavier Soberon", "María de Lourdes Reyes-Escogido", "Rodolfo Guardado-Mendoza" and "Osbaldo Resendis-Antonio"]
+authors = \["Juan José Oropeza-Valdez", "Cristian Padron-Manrique", "Jorge E. Arellano-Villavicencio", "Aarón Vázquez-Jiménez", "Laura E. Hernández-Juárez", "Xavier Soberon", "María de Lourdes Reyes-Escogido", "Rodolfo Guardado-Mendoza", "Osbaldo Resendis-Antonio"]
 title = "Digital modeling of metformin and diet interactions on gut-microbiota metabolism in prediabetic patients"
 journal = "Computational and Structural Biotechnology Journal"
 what = "article"

@@ -1,5 +1,5 @@
 +++
-authors = \["Violeta Larios-Serrato", "Natalia Vázquez-Manjarrez", "Osbaldo Resendis-Antonio", "Nora Rios-Sarabia", "Beatriz Meza", "Oliver Fiehn" and "Javier Torres"]
+authors = \["Violeta Larios-Serrato", "Natalia Vázquez-Manjarrez", "Osbaldo Resendis-Antonio", "Nora Rios-Sarabia", "Beatriz Meza", "Oliver Fiehn" , "Javier Torres"]
 title = "Analyses of Saliva Metabolome Reveal Patterns of Metabolites That Differentiate SARS-CoV-2 Infection and COVID-19 Disease Severity"
 journal = "Metabolites"
 what = "article"

@@ -1,5 +1,5 @@
 +++
-authors = \["Yoscelina Estrella Martínez-López", "Daniel Neri-Rosario", "Diego Armando Esquivel-Hernández", "Cristian Padron-Manrique", "Aarón Vázquez-Jiménez", "Jean Paul Sánchez-Castañeda", "David Girón-Villalobos", "Cristian Mendoza-Ortíz", "María de Lourdes Reyes-Escogido", "Maria Lola Evia-Viscarra", "Alberto Aguilar-Garcia", "Osbaldo Resendis-Antonio" and "Rodolfo Guardado-Mendoza"]
+authors = \["Yoscelina Estrella Martínez-López", "Daniel Neri-Rosario", "Diego Armando Esquivel-Hernández", "Cristian Padron-Manrique", "Aarón Vázquez-Jiménez", "Jean Paul Sánchez-Castañeda", "David Girón-Villalobos", "Cristian Mendoza-Ortíz", "María de Lourdes Reyes-Escogido", "Maria Lola Evia-Viscarra", "Alberto Aguilar-Garcia", "Osbaldo Resendis-Antonio" , "Rodolfo Guardado-Mendoza"]
 title = "Effect of metformin and metformin/linagliptin on gut microbiota in patients with prediabetes"
 journal = "Scientific Reports"
 what = "article"

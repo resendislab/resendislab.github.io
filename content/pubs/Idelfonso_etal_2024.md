@@ -1,9 +1,9 @@
 +++
 authors = \["Osiris G. Idelfonso-García", "Brisa R. Alarcón-Sánchez", "Dafne Guerrero-Escalera", "Norma A. López-Hernández", "José L. Pérez-Hernández", "Ruth Pacheco-Rivera", "Jesús Serrano-Luna", "Osbaldo Resendis-Antonio", "Erick A. Muciño-Olmos",
 
-"Diana I. Aparicio-Bautista", "Gustavo Basurto-Islas", "Rafael Baltiérrez-Hoyos",  "Verónica R. Vásquez-Garzón", "Saúl Villa-Treviño", "Pablo Muriel", "Héctor Serrano",  
+"Diana I. Aparicio-Bautista", "Gustavo Basurto-Islas", "Rafael Baltiérrez-Hoyos",  "Verónica R. Vásquez-Garzón", "Saúl Villa-Treviño", "Pablo Muriel", "Héctor Serrano",
 
-"Julio I. Pérez-Carreón" and "Jaime Arellanes-Robledo"]
+"Julio I. Pérez-Carreón", "Jaime Arellanes-Robledo"]
 title = "Nucleoredoxin Redox Interactions Are Sensitized by Aging and Potentiated by Chronic Alcohol Consumption in the Mouse Liver"
 journal = "Antioxidants"
 what = "article"
